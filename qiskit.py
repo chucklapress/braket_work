@@ -46,8 +46,14 @@ rigetti_retrieved.status()
 """
 <JobStatus.RUNNING: 'job is actively running'>
 """
-
 # step 3
+rigetti_retrieved.status()
+# expected outcome
+"""
+<JobStatus.DONE: 'job has successfully run'>
+"""
+
+# step 4
 
 plot_histogram(retrieved_job.result().get_counts())
 
