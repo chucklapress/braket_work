@@ -11,7 +11,7 @@ Other really good things I found to learn with
 
 [Qiskit community ipynb](https://github.com/qiskit-community/qiskit-braket-provider/blob/main/docs/tutorials/0_tutorial_qiskit-braket-provider_overview.ipynb)  
 
-### Example image of qisket_hello_world_bell.py  
+#### Example image of qisket_hello_world_bell.py output in notebook 
 
 ![Screenshot](img/example_output.png)
 
