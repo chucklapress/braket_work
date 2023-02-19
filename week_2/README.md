@@ -8,8 +8,12 @@ also of note much of the code base and learning came from
 
 Other really good things I found to learn with  
 [Git repo for qiskit braket](https://github.com/qiskit-community/qiskit-braket-provider)  
-  
-[Qiskit community ipynb](https://github.com/qiskit-community/qiskit-braket-provider/blob/main/docs/tutorials/0_tutorial_qiskit-braket-provider_overview.ipynb)
+
+[Qiskit community ipynb](https://github.com/qiskit-community/qiskit-braket-provider/blob/main/docs/tutorials/0_tutorial_qiskit-braket-provider_overview.ipynb)  
+
+### Example image of qisket_hello_world_bell.py  
+
+![Screenshot](img/example_output.png)
 
 
 ### Usage  
