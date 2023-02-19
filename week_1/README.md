@@ -1,5 +1,5 @@
 ## Week one highlights  
-If you are curious week one was outlined chronicled here:  
+If you are curious week one was outlined & chronicled here:  
 
 [LinkedIn post #1](https://www.linkedin.com/feed/update/urn:li:activity:7030210727537754113/)  
 also of note much of the code base and learning came from  
