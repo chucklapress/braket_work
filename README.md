@@ -9,18 +9,14 @@ Follow this beginner-step guideline at this link
 
 ## Usage
 
-```python
-# follow the steps outlined in the python code  
-"""
-Go through step by step in Jupyter paying attention
-to what the lines of commented code are describing
-and notice how when running on the rigetti quantum machine
-the number of shots have to be increased and the output is expected
-to be placed in an S3 bucket named similarly to my example
-"""
-
-# a side note the AWS documents provide the base "Hello World" example run that first
-```
+I have provided a series of screen captures to show the various tabs in AWS Braket you will be using  
+the list of simulators and real quantum devices and availability  
+![Screenshot](img/devices.png)  
+the interface to launch and view your managed Jupyter notebooks  
+![Screenshot](img/notebook.png)  
+after completion the links to the tasks and run statuses  
+  
+![Screenshot](img/tasks.png)
 
 ## Contributing
 
