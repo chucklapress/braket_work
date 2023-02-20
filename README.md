@@ -11,11 +11,11 @@ Follow this beginner-step guideline at this link
 
 I have provided a series of screen captures to show the various tabs in AWS Braket you will be using  
 
-####the list of simulators and real quantum devices and availability  
+### the list of simulators and real quantum devices and availability  
 ![Screenshot](img/devices.png)  
-####the interface to launch and view your managed Jupyter notebooks  
+### the interface to launch and view your managed Jupyter notebooks  
 ![Screenshot](img/notebook.png)  
-####after completion the links to the tasks and run statuses  
+### after completion the links to the tasks and run statuses  
 
 ![Screenshot](img/tasks.png)
 
