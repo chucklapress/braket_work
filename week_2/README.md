@@ -11,9 +11,13 @@ Other really good things I found to learn with
 
 [Qiskit community ipynb](https://github.com/qiskit-community/qiskit-braket-provider/blob/main/docs/tutorials/0_tutorial_qiskit-braket-provider_overview.ipynb)  
 
-#### Example image of qisket_hello_world_bell.py output in notebook 
+#### Example image of qiskit_hello_world_bell.py output in notebook
 
-![Screenshot](img/example_output.png)
+![Screenshot](img/example_output.png)  
+
+
+#### Great video from YouTube going through a demo of the qiskit for braket provider launch  
+[![IMAGE ALT TEXT](img/aws_launch.png)](https://www.youtube.com/watch?v=RFfbLiv14SA "AWS on Air ft: Amazon Braket and Qiskit | AWS Events")
 
 
 ### Usage  
