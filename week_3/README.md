@@ -6,7 +6,15 @@ Beginning work on week three by running the full random number generator code:
 
 ### image of full_random_solutio.py output in notebook
 
-![Screenshot](img/full_random.png)  
+![Screenshot](img/full_random.png)
+
+#### image of modified_complete_random.py generated rigetti and sv1  
+
+![Screenshot](img/generated_sim_rigetti.png)  
+
+#### Final generated result for random generated number  
+
+![Screenshot](img/Finished_results.png)  
 
 
 ### Usage  
