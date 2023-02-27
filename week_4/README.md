@@ -9,10 +9,7 @@ a reminder the running your first circuit using the Amazon Braket Python SDK
 
 [AWS link](https://docs.aws.amazon.com/braket/latest/developerguide/braket-get-started-run-circuit.html)  
 
-Other really good things I found to learn with  
-[Git repo for qiskit braket](https://github.com/qiskit-community/qiskit-braket-provider)  
 
-[Qiskit community ipynb](https://github.com/qiskit-community/qiskit-braket-provider/blob/main/docs/tutorials/0_tutorial_qiskit-braket-provider_overview.ipynb)  
 
 #### Example image of aws console in London tracking task completion
 
