@@ -21,7 +21,7 @@ Other really good things I found to learn with
 
 #### Great video from YouTube with an inside look of Oxford Quantum Circuits and Ilana Wisby CEO of OQC  
 
-[![IMAGE ALT TEXT](img/24hours.png)](https://https://www.youtube.com/watch?v=AaaZvxMUD68)
+[![IMAGE ALT TEXT](img/24hours.png)](https://www.youtube.com/watch?v=AaaZvxMUD68)
 
 
 ### Usage  
