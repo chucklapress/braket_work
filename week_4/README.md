@@ -14,9 +14,9 @@ Other really good things I found to learn with
 
 [Qiskit community ipynb](https://github.com/qiskit-community/qiskit-braket-provider/blob/main/docs/tutorials/0_tutorial_qiskit-braket-provider_overview.ipynb)  
 
-#### Example image of across_the_pond.py output in notebook
+#### Example image of aws console in London tracking task completion
 
-![Screenshot](img/)  
+![Screenshot](img/london_console_task.png)  
 
 
 #### Great video from YouTube with an inside look of Oxford Quantum Circuits and Ilana Wisby CEO of OQC  
