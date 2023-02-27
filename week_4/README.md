@@ -13,8 +13,11 @@ a reminder the running your first circuit using the Amazon Braket Python SDK
 
 #### Example image of aws console in London tracking task completion
 
-![Screenshot](img/london_console_task.png)  
+![Screenshot](img/london_console_task.png)
 
+#### image of success for job execution on OQC equipment  
+
+![Screenshot](img/results_json.png)
 
 #### Great video from YouTube with an inside look of Oxford Quantum Circuits and Ilana Wisby CEO of OQC  
 
