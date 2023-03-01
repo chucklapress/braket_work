@@ -86,29 +86,24 @@ pip install quera-ahs-utils
 
 
 # step 6
-# Im not sure this is needed I applied it debugging
-from quera_ahs_utils import *
-
-
-# step 7
 
 ahs_program.to_ir().dict()
 
 
-# step 8
+# step 7
 
 
 from braket.devices import LocalSimulator
 device = LocalSimulator("braket_ahs")
 
 
-# step 9
+# step 8
 
 
 result = device.run(ahs_program, shots=1000).result()
 
 
-# step 10
+# step 9
 
 
 def get_counters_from_result(result):
@@ -126,7 +121,7 @@ def get_counters_from_result(result):
 get_counters_from_result(result)
 
 
-# step 11
+# step 10
 
 
 from braket.ahs.atom_arrangement import AtomArrangement
@@ -142,14 +137,14 @@ for i in range(N_atoms):
 
 fig = show_register(register)
 
-# step 12
+# step 11
 
 from braket.ahs.hamiltonian import Hamiltonian
 
 H = Hamiltonian()
 
 
-# step 13
+# step 12
 
 
 from quera_ahs_utils.plotting import show_global_drive
@@ -174,7 +169,7 @@ H += drive
 show_global_drive(drive)
 
 
-# step 14
+# step 13
 
 
 from braket.ahs.analog_hamiltonian_simulation import AnalogHamiltonianSimulation
@@ -185,7 +180,7 @@ ahs_program = AnalogHamiltonianSimulation(
 )
 
 
-# step 15
+# step 14
 
 
 from braket.devices import LocalSimulator
@@ -199,7 +194,7 @@ task = classical_device.run(ahs_program, shots=nshots)
 result = task.result()
 
 
-# step 17
+# step 15
 
 
 from quera_ahs_utils.analysis import get_avg_density
