@@ -2,7 +2,7 @@
 This is really the most basic operation of a circuit, the twist in the week  
 four execution was I was curious to interact with another QPU and this one  
 is located in Reading, United Kingdom operated by Oxford Quantum Circuits and named LUCY  
-If you are curious week two was outlined & chronicled here:  
+I've included this link for a little background on OQC, one of many options to select from:  
 
 [Information about OQC](https://oxfordquantumcircuits.com/technology)  
 a reminder the running your first circuit using the Amazon Braket Python SDK  
