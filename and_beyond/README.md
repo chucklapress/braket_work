@@ -18,10 +18,14 @@ In a neutral-atom quantum processor, atoms are suspended in ultrahigh vacuum by 
 
 #### image from the simulated run  
 
-![Screenshot](img/hamilton.png)
+![Screenshot](img/hamilton.png)  
 
+#### screen capture ran on actual hardware  
+
+![Screenshot](img/Success_on_QuEra.png)
 ### Notewothy   
-This is obviously just a beginning on this, I've yet to run the program to it's conclusion on the actual hardware device as it has limited operational hours 11am till 2pm EST on Tuesday, Wednesday and Thursdays when I do successfully execute it, I'll be sure to add an update here
+This is obviously just a beginning on this, I've yet to run the program to it's conclusion on the actual hardware device as it has limited operational hours 11am till 2pm EST on Tuesday, Wednesday and Thursdays when I do successfully execute it, I'll be sure to add an update here  
+--updated 03/02  added screen capture of success on QuEra hardware
 
 
 ### Usage  
