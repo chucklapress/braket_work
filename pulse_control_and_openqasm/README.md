@@ -1,5 +1,10 @@
-### Unfinished learning  
-A folder to capture notebooks and scripts for unfinished weekend learning  
+### Pulse control and openqasm
+The purpose of this focus of code and learning is in understanding control of the hardware from both
+utilizing the OpenQASM programming lanquage  
+Open Quantum Assembly Language (OpenQASM) is a programming language designed for describing quantum circuits and algorithms for execution on quantum computers.  
+The language includes a mechanism for describing explicit timing of instructions, and allows for the attachment of low-level definitions to gates for tasks such as calibration.  
+
+Pulse Control allows us to refine device-level quantum control to become fault tolerant, and is the programatic middle ground until more refined quantum hardware is a reality. 
 
 #### currently capturing  
 currently learning about lower level pulse control using frames and ports  
